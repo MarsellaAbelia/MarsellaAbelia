@@ -18,5 +18,5 @@ Mahasiswa Teknologi Rekayasa Perangkat Lunak (TRPL) yang antusias mempelajari *A
 - **Tools:** Git, VS Code, GitHub
   
 <p align="right">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/277736885394198709_0" width="150px" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150px" />
 </p>
