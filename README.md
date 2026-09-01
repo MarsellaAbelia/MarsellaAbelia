@@ -1,7 +1,6 @@
-### Halo, saya Marsella Abelia! 👋
+### Halo, saya Marsella Abelia! 👋🌸
 Mahasiswa Teknologi Rekayasa Perangkat Lunak (TRPL) yang antusias mempelajari *Artificial Intelligence*, pengembangan web, dan aplikasi mobile.
 
-- 🔭 Saat ini sedang fokus mendalami proyek Computer Vision berbasis **YOLOv8** 
 - 🌱 Terbuka untuk berkolaborasi dalam proyek teknologi, agrikultur digital, dan pengembangan perangkat lunak.
 - 📫 Cara menghubungi saya: 
   <a href="https://www.linkedin.com/in/marsella-abelia-09673a432" target="_blank">
@@ -17,6 +16,4 @@ Mahasiswa Teknologi Rekayasa Perangkat Lunak (TRPL) yang antusias mempelajari *A
 - **AI & Computer Vision:** Ultralytics YOLOv8, OpenCV, Streamlit, Google Colab Models
 - **Tools:** Git, VS Code, GitHub
   
-<p align="right">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150px" />
-</p>
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
