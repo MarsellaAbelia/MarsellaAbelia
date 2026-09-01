@@ -16,4 +16,4 @@ Mahasiswa Teknologi Rekayasa Perangkat Lunak (TRPL) yang antusias mempelajari *A
 - **AI & Computer Vision:** Ultralytics YOLOv8, OpenCV, Streamlit, Google Colab Models
 - **Tools:** Git, VS Code, GitHub
   
-🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
